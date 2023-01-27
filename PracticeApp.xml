@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Practice Automation Application" verbose="1" parallel="tests">
+
+    <test name="Testing User Registration">
+        <classes>
+            <class name="org.selenide.testcases.practice.UserRegistrationTest"/>
+        </classes>
+    </test>
+
+    <test name="Testing User Login">
+        <classes>
+            <class name="org.selenide.testcases.practice.UserLoginTest"/>
+        </classes>
+    </test>
+
+</suite>
