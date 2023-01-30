@@ -16,7 +16,3 @@ e
 5src/test/java/org/selenide/testdata/LoginDetails.java,8\9\89075ea36dd7520503321f0bd0530334474b4bfd
 b
 2src/test/java/org/selenide/testcases/BaseTest.java,0\0\0044280e449ac05308fbcdc39af58ce72857df13
-?
-PracticeApp.xml,8\1\8180b3b307e10752468abfd094e4774e040f3a72
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

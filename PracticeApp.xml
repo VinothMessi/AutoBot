@@ -14,4 +14,10 @@
         </classes>
     </test>
 
+    <test name="Testing User Shopping">
+        <classes>
+            <class name="org.selenide.testcases.practice.UserShoppingTest"/>
+        </classes>
+    </test>
+
 </suite>
