@@ -8,5 +8,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 public interface UserPageElements {
     ElementsCollection navigation_links = $$(".woocommerce-MyAccount-navigation ul li");
+    SelenideElement orders = $(byLinkText("Orders"));
+    SelenideElement browse = $(byLinkText("Browse products"));
     SelenideElement log_out = $(byLinkText("Logout"));
 }

@@ -1,0 +1,32 @@
+[
+  {
+    "username": "vinoth001@gmail.com",
+    "password": "Messi123!@",
+    "product": "Suits",
+    "price": "$300.00"
+  },
+  {
+    "username": "vinoth001@gmail.com",
+    "password": "Messi123!@",
+    "product": "Zurich Watch",
+    "price": "$200.00"
+  },
+  {
+    "username": "vinoth001@gmail.com",
+    "password": "Messi123!@",
+    "product": "Ladies Jeans",
+    "price": "$120.00"
+  },
+  {
+    "username": "vinoth001@gmail.com",
+    "password": "Messi123!@",
+    "product": "Mini Speaker",
+    "price": "$100.00"
+  },
+  {
+    "username": "vinoth001@gmail.com",
+    "password": "Messi123!@",
+    "product": "Toys",
+    "price": "$50.00"
+  }
+]
